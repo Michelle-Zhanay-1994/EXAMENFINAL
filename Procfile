@@ -1,0 +1,1 @@
+web: gunicorn miedu.wsgi --log-file -
